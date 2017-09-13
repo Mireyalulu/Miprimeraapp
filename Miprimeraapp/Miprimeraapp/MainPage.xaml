@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:Miprimeraapp"
+             x:Class="Miprimeraapp.MainPage">
+
+	<Label Text="Name: Jimenez Martinez Lourdes Mireya School Id: 13090390!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />
+
+</ContentPage>
